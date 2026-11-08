@@ -1,0 +1,2015 @@
+[
+  {
+    "t": 0,
+    "mid_cents": 10000,
+    "observed_volume": 1083,
+    "bids": [
+      {
+        "price_cents": 9999,
+        "quantity": 49
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 36
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 20
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10001,
+        "quantity": 39
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 37
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "t": 1,
+    "mid_cents": 9999,
+    "observed_volume": 596,
+    "bids": [
+      {
+        "price_cents": 9998,
+        "quantity": 20
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 22
+      },
+      {
+        "price_cents": 9996,
+        "quantity": 36
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10000,
+        "quantity": 39
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 29
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "t": 2,
+    "mid_cents": 10002,
+    "observed_volume": 678,
+    "bids": [
+      {
+        "price_cents": 10001,
+        "quantity": 46
+      },
+      {
+        "price_cents": 10000,
+        "quantity": 36
+      },
+      {
+        "price_cents": 9999,
+        "quantity": 61
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10003,
+        "quantity": 50
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 64
+      },
+      {
+        "price_cents": 10005,
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "t": 3,
+    "mid_cents": 10005,
+    "observed_volume": 874,
+    "bids": [
+      {
+        "price_cents": 10004,
+        "quantity": 38
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 23
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 58
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10006,
+        "quantity": 23
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 23
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 45
+      }
+    ]
+  },
+  {
+    "t": 4,
+    "mid_cents": 10006,
+    "observed_volume": 771,
+    "bids": [
+      {
+        "price_cents": 10005,
+        "quantity": 38
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 25
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 56
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10007,
+        "quantity": 54
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 37
+      },
+      {
+        "price_cents": 10009,
+        "quantity": 42
+      }
+    ]
+  },
+  {
+    "t": 5,
+    "mid_cents": 10004,
+    "observed_volume": 750,
+    "bids": [
+      {
+        "price_cents": 10003,
+        "quantity": 33
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 46
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 48
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10005,
+        "quantity": 50
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 25
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 49
+      }
+    ]
+  },
+  {
+    "t": 6,
+    "mid_cents": 10004,
+    "observed_volume": 743,
+    "bids": [
+      {
+        "price_cents": 10003,
+        "quantity": 63
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 53
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 26
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10005,
+        "quantity": 46
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 43
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 41
+      }
+    ]
+  },
+  {
+    "t": 7,
+    "mid_cents": 10004,
+    "observed_volume": 848,
+    "bids": [
+      {
+        "price_cents": 10003,
+        "quantity": 45
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 47
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 56
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10005,
+        "quantity": 46
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 34
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "t": 8,
+    "mid_cents": 10002,
+    "observed_volume": 722,
+    "bids": [
+      {
+        "price_cents": 10001,
+        "quantity": 54
+      },
+      {
+        "price_cents": 10000,
+        "quantity": 56
+      },
+      {
+        "price_cents": 9999,
+        "quantity": 55
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10003,
+        "quantity": 60
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 64
+      },
+      {
+        "price_cents": 10005,
+        "quantity": 37
+      }
+    ]
+  },
+  {
+    "t": 9,
+    "mid_cents": 10005,
+    "observed_volume": 1206,
+    "bids": [
+      {
+        "price_cents": 10004,
+        "quantity": 62
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 43
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 26
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10006,
+        "quantity": 50
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 31
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 36
+      }
+    ]
+  },
+  {
+    "t": 10,
+    "mid_cents": 10007,
+    "observed_volume": 68,
+    "bids": [
+      {
+        "price_cents": 10006,
+        "quantity": 7
+      },
+      {
+        "price_cents": 10005,
+        "quantity": 12
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 12
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10008,
+        "quantity": 20
+      },
+      {
+        "price_cents": 10009,
+        "quantity": 9
+      },
+      {
+        "price_cents": 10010,
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "t": 11,
+    "mid_cents": 10004,
+    "observed_volume": 115,
+    "bids": [
+      {
+        "price_cents": 10003,
+        "quantity": 7
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 9
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 18
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10005,
+        "quantity": 16
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 19
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "t": 12,
+    "mid_cents": 10006,
+    "observed_volume": 108,
+    "bids": [
+      {
+        "price_cents": 10005,
+        "quantity": 20
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 15
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 12
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10007,
+        "quantity": 19
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 17
+      },
+      {
+        "price_cents": 10009,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "t": 13,
+    "mid_cents": 10003,
+    "observed_volume": 89,
+    "bids": [
+      {
+        "price_cents": 10002,
+        "quantity": 18
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10000,
+        "quantity": 21
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10004,
+        "quantity": 8
+      },
+      {
+        "price_cents": 10005,
+        "quantity": 12
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "t": 14,
+    "mid_cents": 10003,
+    "observed_volume": 74,
+    "bids": [
+      {
+        "price_cents": 10002,
+        "quantity": 8
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 12
+      },
+      {
+        "price_cents": 10000,
+        "quantity": 15
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10004,
+        "quantity": 13
+      },
+      {
+        "price_cents": 10005,
+        "quantity": 8
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "t": 15,
+    "mid_cents": 10001,
+    "observed_volume": 84,
+    "bids": [
+      {
+        "price_cents": 10000,
+        "quantity": 8
+      },
+      {
+        "price_cents": 9999,
+        "quantity": 20
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 19
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10002,
+        "quantity": 17
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 17
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "t": 16,
+    "mid_cents": 10000,
+    "observed_volume": 112,
+    "bids": [
+      {
+        "price_cents": 9999,
+        "quantity": 15
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 11
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 16
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10001,
+        "quantity": 12
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 15
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "t": 17,
+    "mid_cents": 10000,
+    "observed_volume": 107,
+    "bids": [
+      {
+        "price_cents": 9999,
+        "quantity": 11
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 14
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 16
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10001,
+        "quantity": 17
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 16
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 11
+      }
+    ]
+  },
+  {
+    "t": 18,
+    "mid_cents": 9999,
+    "observed_volume": 82,
+    "bids": [
+      {
+        "price_cents": 9998,
+        "quantity": 18
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 9
+      },
+      {
+        "price_cents": 9996,
+        "quantity": 18
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10000,
+        "quantity": 11
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 12
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "t": 19,
+    "mid_cents": 9999,
+    "observed_volume": 103,
+    "bids": [
+      {
+        "price_cents": 9998,
+        "quantity": 15
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 21
+      },
+      {
+        "price_cents": 9996,
+        "quantity": 19
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10000,
+        "quantity": 15
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 21
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "t": 20,
+    "mid_cents": 10001,
+    "observed_volume": 76,
+    "bids": [
+      {
+        "price_cents": 10000,
+        "quantity": 18
+      },
+      {
+        "price_cents": 9999,
+        "quantity": 15
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 11
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10002,
+        "quantity": 12
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 14
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 21
+      }
+    ]
+  },
+  {
+    "t": 21,
+    "mid_cents": 10000,
+    "observed_volume": 120,
+    "bids": [
+      {
+        "price_cents": 9999,
+        "quantity": 19
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 13
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 19
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10001,
+        "quantity": 18
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 15
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "t": 22,
+    "mid_cents": 10001,
+    "observed_volume": 125,
+    "bids": [
+      {
+        "price_cents": 10000,
+        "quantity": 9
+      },
+      {
+        "price_cents": 9999,
+        "quantity": 8
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 8
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10002,
+        "quantity": 10
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "t": 23,
+    "mid_cents": 9998,
+    "observed_volume": 69,
+    "bids": [
+      {
+        "price_cents": 9997,
+        "quantity": 12
+      },
+      {
+        "price_cents": 9996,
+        "quantity": 14
+      },
+      {
+        "price_cents": 9995,
+        "quantity": 18
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 9999,
+        "quantity": 9
+      },
+      {
+        "price_cents": 10000,
+        "quantity": 19
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 21
+      }
+    ]
+  },
+  {
+    "t": 24,
+    "mid_cents": 9999,
+    "observed_volume": 106,
+    "bids": [
+      {
+        "price_cents": 9998,
+        "quantity": 15
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 9
+      },
+      {
+        "price_cents": 9996,
+        "quantity": 15
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10000,
+        "quantity": 10
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 21
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 14
+      }
+    ]
+  },
+  {
+    "t": 25,
+    "mid_cents": 10000,
+    "observed_volume": 148,
+    "bids": [
+      {
+        "price_cents": 9999,
+        "quantity": 12
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 18
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 11
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10001,
+        "quantity": 7
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 15
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "t": 26,
+    "mid_cents": 10000,
+    "observed_volume": 78,
+    "bids": [
+      {
+        "price_cents": 9999,
+        "quantity": 14
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 11
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 8
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10001,
+        "quantity": 19
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 21
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 21
+      }
+    ]
+  },
+  {
+    "t": 27,
+    "mid_cents": 9999,
+    "observed_volume": 74,
+    "bids": [
+      {
+        "price_cents": 9998,
+        "quantity": 14
+      },
+      {
+        "price_cents": 9997,
+        "quantity": 19
+      },
+      {
+        "price_cents": 9996,
+        "quantity": 8
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10000,
+        "quantity": 14
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 12
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 11
+      }
+    ]
+  },
+  {
+    "t": 28,
+    "mid_cents": 10001,
+    "observed_volume": 67,
+    "bids": [
+      {
+        "price_cents": 10000,
+        "quantity": 16
+      },
+      {
+        "price_cents": 9999,
+        "quantity": 11
+      },
+      {
+        "price_cents": 9998,
+        "quantity": 10
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10002,
+        "quantity": 16
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 8
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 14
+      }
+    ]
+  },
+  {
+    "t": 29,
+    "mid_cents": 10003,
+    "observed_volume": 84,
+    "bids": [
+      {
+        "price_cents": 10002,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 18
+      },
+      {
+        "price_cents": 10000,
+        "quantity": 13
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10004,
+        "quantity": 13
+      },
+      {
+        "price_cents": 10005,
+        "quantity": 10
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "t": 30,
+    "mid_cents": 10004,
+    "observed_volume": 49,
+    "bids": [
+      {
+        "price_cents": 10003,
+        "quantity": 15
+      },
+      {
+        "price_cents": 10002,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10001,
+        "quantity": 7
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10005,
+        "quantity": 19
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 16
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "t": 31,
+    "mid_cents": 10006,
+    "observed_volume": 73,
+    "bids": [
+      {
+        "price_cents": 10005,
+        "quantity": 14
+      },
+      {
+        "price_cents": 10004,
+        "quantity": 17
+      },
+      {
+        "price_cents": 10003,
+        "quantity": 19
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10007,
+        "quantity": 21
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 21
+      },
+      {
+        "price_cents": 10009,
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "t": 32,
+    "mid_cents": 10009,
+    "observed_volume": 56,
+    "bids": [
+      {
+        "price_cents": 10008,
+        "quantity": 15
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 7
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 21
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10010,
+        "quantity": 16
+      },
+      {
+        "price_cents": 10011,
+        "quantity": 13
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 19
+      }
+    ]
+  },
+  {
+    "t": 33,
+    "mid_cents": 10009,
+    "observed_volume": 73,
+    "bids": [
+      {
+        "price_cents": 10008,
+        "quantity": 17
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 9
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 18
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10010,
+        "quantity": 18
+      },
+      {
+        "price_cents": 10011,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "t": 34,
+    "mid_cents": 10010,
+    "observed_volume": 81,
+    "bids": [
+      {
+        "price_cents": 10009,
+        "quantity": 18
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 12
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 21
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10011,
+        "quantity": 9
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "t": 35,
+    "mid_cents": 10011,
+    "observed_volume": 750,
+    "bids": [
+      {
+        "price_cents": 10010,
+        "quantity": 31
+      },
+      {
+        "price_cents": 10009,
+        "quantity": 49
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 26
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10012,
+        "quantity": 55
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 34
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 51
+      }
+    ]
+  },
+  {
+    "t": 36,
+    "mid_cents": 10012,
+    "observed_volume": 1165,
+    "bids": [
+      {
+        "price_cents": 10011,
+        "quantity": 51
+      },
+      {
+        "price_cents": 10010,
+        "quantity": 46
+      },
+      {
+        "price_cents": 10009,
+        "quantity": 54
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10013,
+        "quantity": 45
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 20
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 43
+      }
+    ]
+  },
+  {
+    "t": 37,
+    "mid_cents": 10011,
+    "observed_volume": 574,
+    "bids": [
+      {
+        "price_cents": 10010,
+        "quantity": 28
+      },
+      {
+        "price_cents": 10009,
+        "quantity": 51
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 51
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10012,
+        "quantity": 63
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 50
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 44
+      }
+    ]
+  },
+  {
+    "t": 38,
+    "mid_cents": 10010,
+    "observed_volume": 678,
+    "bids": [
+      {
+        "price_cents": 10009,
+        "quantity": 62
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 46
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 26
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10011,
+        "quantity": 21
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 63
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "t": 39,
+    "mid_cents": 10012,
+    "observed_volume": 573,
+    "bids": [
+      {
+        "price_cents": 10011,
+        "quantity": 48
+      },
+      {
+        "price_cents": 10010,
+        "quantity": 64
+      },
+      {
+        "price_cents": 10009,
+        "quantity": 54
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10013,
+        "quantity": 30
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 49
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 39
+      }
+    ]
+  },
+  {
+    "t": 40,
+    "mid_cents": 10010,
+    "observed_volume": 816,
+    "bids": [
+      {
+        "price_cents": 10009,
+        "quantity": 49
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 55
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 50
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10011,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 23
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 26
+      }
+    ]
+  },
+  {
+    "t": 41,
+    "mid_cents": 10010,
+    "observed_volume": 652,
+    "bids": [
+      {
+        "price_cents": 10009,
+        "quantity": 32
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 40
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 52
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10011,
+        "quantity": 21
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 31
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "t": 42,
+    "mid_cents": 10009,
+    "observed_volume": 736,
+    "bids": [
+      {
+        "price_cents": 10008,
+        "quantity": 48
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 59
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 20
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10010,
+        "quantity": 64
+      },
+      {
+        "price_cents": 10011,
+        "quantity": 55
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 47
+      }
+    ]
+  },
+  {
+    "t": 43,
+    "mid_cents": 10009,
+    "observed_volume": 1257,
+    "bids": [
+      {
+        "price_cents": 10008,
+        "quantity": 58
+      },
+      {
+        "price_cents": 10007,
+        "quantity": 31
+      },
+      {
+        "price_cents": 10006,
+        "quantity": 28
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10010,
+        "quantity": 43
+      },
+      {
+        "price_cents": 10011,
+        "quantity": 55
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "t": 44,
+    "mid_cents": 10011,
+    "observed_volume": 767,
+    "bids": [
+      {
+        "price_cents": 10010,
+        "quantity": 42
+      },
+      {
+        "price_cents": 10009,
+        "quantity": 54
+      },
+      {
+        "price_cents": 10008,
+        "quantity": 38
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10012,
+        "quantity": 47
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 25
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "t": 45,
+    "mid_cents": 10013,
+    "observed_volume": 829,
+    "bids": [
+      {
+        "price_cents": 10012,
+        "quantity": 49
+      },
+      {
+        "price_cents": 10011,
+        "quantity": 64
+      },
+      {
+        "price_cents": 10010,
+        "quantity": 60
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10014,
+        "quantity": 27
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 64
+      },
+      {
+        "price_cents": 10016,
+        "quantity": 31
+      }
+    ]
+  },
+  {
+    "t": 46,
+    "mid_cents": 10016,
+    "observed_volume": 854,
+    "bids": [
+      {
+        "price_cents": 10015,
+        "quantity": 30
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 25
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 36
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10017,
+        "quantity": 49
+      },
+      {
+        "price_cents": 10018,
+        "quantity": 40
+      },
+      {
+        "price_cents": 10019,
+        "quantity": 28
+      }
+    ]
+  },
+  {
+    "t": 47,
+    "mid_cents": 10018,
+    "observed_volume": 866,
+    "bids": [
+      {
+        "price_cents": 10017,
+        "quantity": 55
+      },
+      {
+        "price_cents": 10016,
+        "quantity": 25
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 59
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10019,
+        "quantity": 57
+      },
+      {
+        "price_cents": 10020,
+        "quantity": 59
+      },
+      {
+        "price_cents": 10021,
+        "quantity": 21
+      }
+    ]
+  },
+  {
+    "t": 48,
+    "mid_cents": 10017,
+    "observed_volume": 950,
+    "bids": [
+      {
+        "price_cents": 10016,
+        "quantity": 23
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 43
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 56
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10018,
+        "quantity": 54
+      },
+      {
+        "price_cents": 10019,
+        "quantity": 62
+      },
+      {
+        "price_cents": 10020,
+        "quantity": 48
+      }
+    ]
+  },
+  {
+    "t": 49,
+    "mid_cents": 10017,
+    "observed_volume": 941,
+    "bids": [
+      {
+        "price_cents": 10016,
+        "quantity": 31
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 53
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 51
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10018,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10019,
+        "quantity": 38
+      },
+      {
+        "price_cents": 10020,
+        "quantity": 48
+      }
+    ]
+  },
+  {
+    "t": 50,
+    "mid_cents": 10018,
+    "observed_volume": 707,
+    "bids": [
+      {
+        "price_cents": 10017,
+        "quantity": 48
+      },
+      {
+        "price_cents": 10016,
+        "quantity": 36
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 59
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10019,
+        "quantity": 24
+      },
+      {
+        "price_cents": 10020,
+        "quantity": 38
+      },
+      {
+        "price_cents": 10021,
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "t": 51,
+    "mid_cents": 10017,
+    "observed_volume": 828,
+    "bids": [
+      {
+        "price_cents": 10016,
+        "quantity": 43
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 32
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 46
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10018,
+        "quantity": 37
+      },
+      {
+        "price_cents": 10019,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10020,
+        "quantity": 29
+      }
+    ]
+  },
+  {
+    "t": 52,
+    "mid_cents": 10017,
+    "observed_volume": 733,
+    "bids": [
+      {
+        "price_cents": 10016,
+        "quantity": 28
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 63
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10018,
+        "quantity": 56
+      },
+      {
+        "price_cents": 10019,
+        "quantity": 27
+      },
+      {
+        "price_cents": 10020,
+        "quantity": 35
+      }
+    ]
+  },
+  {
+    "t": 53,
+    "mid_cents": 10015,
+    "observed_volume": 563,
+    "bids": [
+      {
+        "price_cents": 10014,
+        "quantity": 36
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 48
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 36
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10016,
+        "quantity": 60
+      },
+      {
+        "price_cents": 10017,
+        "quantity": 40
+      },
+      {
+        "price_cents": 10018,
+        "quantity": 59
+      }
+    ]
+  },
+  {
+    "t": 54,
+    "mid_cents": 10016,
+    "observed_volume": 875,
+    "bids": [
+      {
+        "price_cents": 10015,
+        "quantity": 63
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 35
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 32
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10017,
+        "quantity": 54
+      },
+      {
+        "price_cents": 10018,
+        "quantity": 43
+      },
+      {
+        "price_cents": 10019,
+        "quantity": 23
+      }
+    ]
+  },
+  {
+    "t": 55,
+    "mid_cents": 10014,
+    "observed_volume": 915,
+    "bids": [
+      {
+        "price_cents": 10013,
+        "quantity": 45
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 37
+      },
+      {
+        "price_cents": 10011,
+        "quantity": 63
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10015,
+        "quantity": 56
+      },
+      {
+        "price_cents": 10016,
+        "quantity": 32
+      },
+      {
+        "price_cents": 10017,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "t": 56,
+    "mid_cents": 10016,
+    "observed_volume": 797,
+    "bids": [
+      {
+        "price_cents": 10015,
+        "quantity": 39
+      },
+      {
+        "price_cents": 10014,
+        "quantity": 21
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 48
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10017,
+        "quantity": 28
+      },
+      {
+        "price_cents": 10018,
+        "quantity": 63
+      },
+      {
+        "price_cents": 10019,
+        "quantity": 43
+      }
+    ]
+  },
+  {
+    "t": 57,
+    "mid_cents": 10015,
+    "observed_volume": 986,
+    "bids": [
+      {
+        "price_cents": 10014,
+        "quantity": 38
+      },
+      {
+        "price_cents": 10013,
+        "quantity": 29
+      },
+      {
+        "price_cents": 10012,
+        "quantity": 43
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10016,
+        "quantity": 46
+      },
+      {
+        "price_cents": 10017,
+        "quantity": 40
+      },
+      {
+        "price_cents": 10018,
+        "quantity": 43
+      }
+    ]
+  },
+  {
+    "t": 58,
+    "mid_cents": 10019,
+    "observed_volume": 450,
+    "bids": [
+      {
+        "price_cents": 10018,
+        "quantity": 59
+      },
+      {
+        "price_cents": 10017,
+        "quantity": 60
+      },
+      {
+        "price_cents": 10016,
+        "quantity": 47
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10020,
+        "quantity": 22
+      },
+      {
+        "price_cents": 10021,
+        "quantity": 32
+      },
+      {
+        "price_cents": 10022,
+        "quantity": 57
+      }
+    ]
+  },
+  {
+    "t": 59,
+    "mid_cents": 10018,
+    "observed_volume": 1044,
+    "bids": [
+      {
+        "price_cents": 10017,
+        "quantity": 37
+      },
+      {
+        "price_cents": 10016,
+        "quantity": 55
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 60
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10019,
+        "quantity": 64
+      },
+      {
+        "price_cents": 10020,
+        "quantity": 32
+      },
+      {
+        "price_cents": 10021,
+        "quantity": 63
+      }
+    ]
+  },
+  {
+    "t": 60,
+    "mid_cents": 10018,
+    "observed_volume": 715,
+    "bids": [
+      {
+        "price_cents": 10017,
+        "quantity": 42
+      },
+      {
+        "price_cents": 10016,
+        "quantity": 25
+      },
+      {
+        "price_cents": 10015,
+        "quantity": 30
+      }
+    ],
+    "asks": [
+      {
+        "price_cents": 10019,
+        "quantity": 50
+      },
+      {
+        "price_cents": 10020,
+        "quantity": 54
+      },
+      {
+        "price_cents": 10021,
+        "quantity": 20
+      }
+    ]
+  }
+]

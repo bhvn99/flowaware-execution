@@ -1,0 +1,130 @@
+{
+  "actual_evaluation_seeds": [
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023,
+    1024,
+    1025,
+    1026,
+    1027,
+    1028,
+    1029,
+    1030,
+    1031,
+    1032,
+    1033,
+    1034,
+    1035,
+    1036,
+    1037,
+    1038,
+    1039,
+    1040,
+    1041,
+    1042,
+    1043,
+    1044,
+    1045,
+    1046,
+    1047,
+    1048,
+    1049
+  ],
+  "config": {
+    "bootstrap_resamples": 2000,
+    "bootstrap_seed": 987654,
+    "child_ttl": 2,
+    "description": "Synthetic one-symbol evaluation. Policy parameters fixed before evaluation; no fitted model.",
+    "development_seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "evaluation_seed_count": 50,
+    "evaluation_seed_start": 1000,
+    "flowaware_urgency_bps": 25.0,
+    "non_delivery_penalty_bps": 25.0,
+    "participation": 0.1,
+    "scenarios": [
+      "normal",
+      "liquidity_drought",
+      "wide_spread",
+      "rising",
+      "falling",
+      "thin_book",
+      "overloaded"
+    ],
+    "sensitivity_seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "sensitivity_variants": [
+      {
+        "depth_scale": 1.0,
+        "level_gap": 1,
+        "name": "base",
+        "spread_scale": 1
+      },
+      {
+        "depth_scale": 1.0,
+        "level_gap": 1,
+        "name": "double_spread",
+        "spread_scale": 2
+      },
+      {
+        "depth_scale": 0.5,
+        "level_gap": 1,
+        "name": "half_depth",
+        "spread_scale": 1
+      },
+      {
+        "depth_scale": 1.0,
+        "level_gap": 3,
+        "name": "steep_book",
+        "spread_scale": 1
+      }
+    ]
+  },
+  "matplotlib": "3.11.2",
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "python": "3.13.5",
+  "source_sha256": {
+    "experiment_config.json": "8aade350bffec1498949829038bb8cd14aac102a8443a933623b14f7928597cf",
+    "requirements.txt": "4b78c4a5a6423247d68f0727ae1d8855ad4f7fb980f1be3afc16f234b65f47e9",
+    "src/flowaware/__init__.py": "8db4e713571a4efddf5181db0c637f504d213cdfe209dd0e6be3d6ca00c54ab0",
+    "src/flowaware/execution.py": "630fd08d0acc1e8f56e4b08bdef0fb7b10ba9ff309ff77fc8cf76c7be5e2f1fa",
+    "src/flowaware/experiments.py": "35216adf4240ebf22eab7b1ab546a57f41c509a7dbef560db1fd9b2717c40c23",
+    "src/flowaware/market.py": "b59a8f1369f073568d00e0f7bdc0d23c273ee13f5d4454a731fbffd76016db20",
+    "src/flowaware/metrics.py": "3700075bf58fc86c66aedbab3c4d094f1875a10e5cee430f7aadaefa0adf8c41",
+    "src/flowaware/models.py": "b4eba8ada57244d4c7fff00d4e9879273f54497ebbd3a944339be5a919beb6a1",
+    "src/flowaware/statistics.py": "d2fcd200a75006be25f288574b14712d6c4709dc8a60af74a594116ac9576e27",
+    "src/flowaware/strategies.py": "5cd385b79a83a068879d07af6542752b6e1cb582dfd016ae54db385b686ea9b0"
+  }
+}

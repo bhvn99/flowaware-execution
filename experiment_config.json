@@ -1,0 +1,20 @@
+{
+  "description": "Synthetic one-symbol evaluation. Policy parameters fixed before evaluation; no fitted model.",
+  "development_seeds": [0, 1, 2, 3, 4],
+  "evaluation_seed_start": 1000,
+  "evaluation_seed_count": 50,
+  "scenarios": ["normal", "liquidity_drought", "wide_spread", "rising", "falling", "thin_book", "overloaded"],
+  "participation": 0.10,
+  "child_ttl": 2,
+  "flowaware_urgency_bps": 25.0,
+  "non_delivery_penalty_bps": 25.0,
+  "bootstrap_resamples": 2000,
+  "bootstrap_seed": 987654,
+  "sensitivity_seeds": [0, 1, 2, 3, 4],
+  "sensitivity_variants": [
+    {"name": "base", "spread_scale": 1, "depth_scale": 1.0, "level_gap": 1},
+    {"name": "double_spread", "spread_scale": 2, "depth_scale": 1.0, "level_gap": 1},
+    {"name": "half_depth", "spread_scale": 1, "depth_scale": 0.5, "level_gap": 1},
+    {"name": "steep_book", "spread_scale": 1, "depth_scale": 1.0, "level_gap": 3}
+  ]
+}

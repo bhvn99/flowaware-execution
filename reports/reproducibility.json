@@ -1,0 +1,39 @@
+{
+  "verification_date": "2026-11-08",
+  "python": "3.13.5",
+  "test_cases_passed": 42,
+  "fresh_environment": "new venv, pinned requirements installed offline from local package cache",
+  "matching_confirmation_files": 19,
+  "matching_confirmation_csvs": 13,
+  "comparison": "byte-for-byte; Finder .DS_Store metadata excluded",
+  "initial_csv_files_unchanged": 12,
+  "initial_seed_range": [
+    1000,
+    1049
+  ],
+  "confirmation_seed_range": [
+    2000,
+    2099
+  ],
+  "files_sha256": {
+    "REPORT.md": "ee62f140dde8d6d8b2c995e1c32df76c67e628f1be659b6951431c729b8bfb70",
+    "demo_market.json": "db117ae1a71e4634cc5a42c2a34b5ebcf98023764e465d101bbaeb79bb58e6c6",
+    "figures/cost_completion.png": "300e4065ddc840f33a8b9bc3bb8603f13c85f40faaac5e9fed471a62f85f07c0",
+    "figures/drought_completion.png": "d4d74fc1688ca6cd06f6c5d54430098db0c30da5ad0a1ae90dbacf00635752b2",
+    "figures/paired_cost_difference.png": "5d02c661cd0097465454b3977ce63d864ecb3e078295e89ecf399b30d3b4cfd1",
+    "manifest.json": "dc8b4245288bf7baa58aee8bc38b6abc001bffaa6ba89db767f95832cdbafc3b",
+    "tables/demo_children_deadline_priority.csv": "37f499d78fcbae552f4e66194da5db3327d9414a36d7443f85bacf9791ba7632",
+    "tables/demo_children_flowaware.csv": "697aeca5fd49c627dfd8b56aa9a9b85af7f67e91fb634b04cbe1dc8c3e913258",
+    "tables/demo_children_independent_twap.csv": "ba900fdc8b73649410552f03755242950768604d64f58c85916e45077e978882",
+    "tables/demo_fills_deadline_priority.csv": "50da307eee22587ab232313bcf5dd16d1416b2986f136f5db82811a8946fb5fe",
+    "tables/demo_fills_flowaware.csv": "b11eec74259893a63725fe68632cb6b5f513bab707ad8a4f017ce2a8cca89c93",
+    "tables/demo_fills_independent_twap.csv": "3b07bc5e2f939c7c2a77f265d056eafae70b2e562e4578d8f18890b8cf216a47",
+    "tables/demo_trace.csv": "35d8a2ba54d30a93812e26a19f6c2d4dfa79b4b37a00123dfcfa233acbeb8c81",
+    "tables/paired_comparisons.csv": "1c180d690944867c7bb87095fa38784057494fb4a5c3b77241bf618b4bf1e92b",
+    "tables/paired_metrics.csv": "7f76f2e3ad4a01fd487f5d369605e28782a85e91bedc6cef2dad27b8a2cbf872",
+    "tables/parents.csv": "f0e92d95af5f17214d66fdda2e40dea1f9ab268ed3b363edfdc502110b859ef6",
+    "tables/runs.csv": "265b18ce0151fd06317acc1459d5b7ba67b949552d5ffa6613397f58ec9a24d6",
+    "tables/sensitivity.csv": "c9df6421b2b1c5686f39548def674c24f699cc2635ceb1af6e59be3157272caa",
+    "tables/summary.csv": "d8f8480c5581e30e7d74edd952e3ec9910f52e1856343cbcddcc61e3da57e27d"
+  }
+}
